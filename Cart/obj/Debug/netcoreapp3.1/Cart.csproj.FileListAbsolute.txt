@@ -42,3 +42,4 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.dll
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\CartModule\Cart\obj\Debug\netcoreapp3.1\Cart.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\CartModule\Cart\bin\Debug\netcoreapp3.1\Cart.yaml
